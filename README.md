@@ -195,5 +195,5 @@ The game is designed using several OOP principles:
 
 ## Contact
 For any inquiries or feedback, feel free to reach out:
-- **GitHub**: [hzjadoon](https://github.com/hzjadoon)
+- **GitHub**: [hzjadoon](https://github.com/hassanzaibjadoon)
 - **Email**: [hassanzaibjadoon2004@gmail.com](mailto:hassanzaibjadoon2004@gmail.com)
